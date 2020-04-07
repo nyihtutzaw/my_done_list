@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css2?family=Noto+Serif:wght@700&display=swap);h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  color: white !important;
+  font-family: "Noto Serif", serif !important;
+}
+
+nav {
+  height: 80px;
+  line-height: 60px;
+  background:black;
+}
+
